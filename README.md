@@ -4,7 +4,7 @@
 
 👀 Interests: My professional and academic journey is driven by a deep interest in data science and machine learning. Outside of these fields, I'm passionate about music, art, and innovation, constantly seeking ways to intertwine these interests with my technical work.
 
-🌱 Current Learning Path: In my master's program, I am delving into advanced topics like machine learning algorithms, the mathematics underpinning data science, database management, and data visualization, among others.
+🌱 Current Learning Path: In my master's program, I am delving into advanced topics like machine learning algorithms, the mathematics underpinning data science, database management, and data visualization, among others. On top of this, I love to continue my education outside of my masters program; I'm currently reading Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.
 
 📫 Contact Information: Feel free to reach out to me at tomporteryoungblood@gmail.com or at 310-405-4100.
 
