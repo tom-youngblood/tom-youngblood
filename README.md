@@ -1,4 +1,4 @@
-👋 Hey! I’m @tom-youngblood, a Master's student in Data Science at Denver University, and a recent graduate of Economics at USC.
+👋 Hey! I’m @tom-youngblood, a Master's student in Data Science at Denver University working as a Data Analyst/Data Engineer at CoEfficient Labs, a PPC marketing/growth hacking startup. I recently received my bachelors of Economics at USC.
 
 🎓 Educational Background: I hold a Bachelor's Degree in Economics from the University of Southern California and am currently advancing my expertise in data science through my master's studies at the University of Denver.
 
