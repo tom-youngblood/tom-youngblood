@@ -1,4 +1,4 @@
-👋 Hey! I’m @tom-youngblood, a Data Analyst/Data Engineer at CoEfficient Labs, a PPC marketing/growth hacking startup.
+👋 Hey! I’m @tom-youngblood, a software engineer specializing in data and AI/ML/DL at CoEfficient Labs, a PPC marketing/growth hacking startup.
 
 🎓 Educational Background: I hold a Masters Degree Data Science from DU and a Bachelors Degree in Economics from USC.
 
@@ -10,6 +10,7 @@
 - R: GGPlot2, Machine Learning Frameworks, Deep Learning Frameworks, Statistical Modeling.
 - Git
 - N8N: Agentic AI Workflows
+- Cloud: Google Cloud, AWS
 
 📫 Contact Information: Feel free to reach out to me at tomporteryoungblood@gmail.com or at 310-405-4100.
 
