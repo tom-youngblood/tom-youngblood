@@ -5,10 +5,11 @@
 👀 Interests: My professional and academic journey is driven by a deep interest in data science, machine learning, and data engineering. Outside of these fields, I'm passionate about music, art, and innovation, constantly seeking ways to intertwine these interests with my technical work.
 
 🔨 Skills:
-- Python: ScikitLearn, Keras, Tensorflow, Pandas, Numpy, MatplotLib, SQLAlchemy, Dash, Streamlit, Plotly.
+- Data Engineering: AWS, GCP, dbt, Apache Snowflake, Apache Airflow.
+- Python: ScikitLearn, Keras, Tensorflow, Pandas, Numpy, MatplotLib, SQLAlchemy, Dash, Streamlit, Plotly, APIs.
 - SQL: Relational Databases, Google BigQuery, MySQLServer.
 - R: GGPlot2, Machine Learning Frameworks, Deep Learning Frameworks, Statistical Modeling.
-- Git
+- Architecture/Containerization: Git, Docker
 - N8N: Agentic AI Workflows
 - Cloud: Google Cloud, AWS
 
